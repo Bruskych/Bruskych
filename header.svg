@@ -11,7 +11,6 @@
 </defs>
 
 <rect width="1200" height="280" rx="12" fill="url(#bg)" />
-<path d="M0 279H1200" stroke="#0d9488" stroke-width="2" />
 
 <rect x="60" y="54" width="12" height="12" fill="#2dd4bf" />
 <rect x="76" y="54" width="12" height="12" fill="#2dd4bf" opacity="0.7" />
